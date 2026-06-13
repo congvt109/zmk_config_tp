@@ -211,7 +211,7 @@ XXX,            XXX,            XXX,            XXX,            XXX,            
 XXX,            &kp Q,          &kp W,          &kp E,          &kp R,          &kp T,                  &kp Y,          &kp U,          &kp I,          &kp O,          &kp P,        XXX,
 XXX,            &hm LGUI A,     &hm LALT S,     &hm LCTRL D,    &hm LSHFT F,    &kp G,                  &kp H,          &hm RSHFT J,    &hm RCTRL K,    &hm LALT L,     &hm RGUI SQT,     XXX,
 XXX,            &kp Z,          &kp X,          &kp C,          &kp V,          &kp B,                  &kp N,          &kp M,          &kp COMMA,      &kp DOT,        &kp FSLH,       XXX,
-XXX,            XXX,            XXX,            &lt FN ESC,     &lt NUM SPACE,  &lt SYM TAB,            &lt MEDIA RET,  &lt NAV BSPC,   XXX,            XXX,            XXX,            XXX,
+XXX,            XXX,            XXX,            &lt FN ESC,     &lt NUM BSPC,  &lt SYM TAB,            &lt MEDIA RET,  &lt NAV SPACE,   XXX,            XXX,            XXX,            XXX,
 XXX,            XXX,            XXX,            XXX,            &mkp LCLK,      &mkp RCLK,              XXX,            XXX,            XXX,            XXX,            XXX,            XXX
             )>;
         };
