@@ -1,0 +1,8 @@
+if ZMK_RGB_UNDERGLOW
+
+config LSH_RGB_UG
+    bool
+    default y
+    select LED_STRIP
+
+endif
